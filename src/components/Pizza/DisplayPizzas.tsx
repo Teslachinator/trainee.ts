@@ -1,5 +1,5 @@
 import { FC } from "react";
-import Pizza from "../models/Pizza";
+import Pizza from "../../models/Pizza";
 import SinglePizzas from "./SinglePizzas";
 
 interface DisplayPizzasProps {
